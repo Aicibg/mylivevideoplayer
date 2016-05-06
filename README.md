@@ -1,2 +1,3 @@
 # mylivevideoplayer
 支持在线，本地视频播放项目源码
+主要使用vitamio框架来实现视频的在线播放和本地播放
